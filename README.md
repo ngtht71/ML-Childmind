@@ -17,6 +17,10 @@ This project addresses a machine learning problem focused on predicting the **SI
 The primary goal is to optimize predictions by leveraging an ensemble model to achieve the highest **Quadratic Weighted Kappa (QWK)** score.  
 
 ---
+## Model Improvements
+**Model improvements are shown in the notebook and annotated with [IMPROVEMENT] blocks.**
+
+---
 
 ## Problem Description  
 The task involves predicting the SII index based on time-series data and other related features.  
